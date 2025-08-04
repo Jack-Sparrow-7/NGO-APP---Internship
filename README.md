@@ -29,15 +29,52 @@ Dart
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-<img src="assets/screenshots/HomeScreen.jpg" alt="Home Page" width="300"/>
+
+<p align="center">
+  <img src="assets/screenshots/HomeScreen.jpg" alt="Home Page" width="300"/>
+</p>
+
+---
+
+### 📂 Navigation Drawer
+
+<p align="center">
+  <img src="assets/screenshots/NavigationDrawer.jpg" alt="Navigation Drawer" width="300"/>
+</p>
+
+---
 
 ### 📋 Volunteer Form
-<img src="assets/screenshots/VolunteerScreen1.jpg" alt="Home Page" width="300"/>
-<img src="assets/screenshots/VolunteerScreen2.jpg" alt="Home Page" width="300"/>
 
-### ✅ Validation
-<img src="assets/screenshots/FormSubmitted.jpg" alt="Home Page" width="300"/>
-<img src="assets/screenshots/FormValidation.jpg" alt="Home Page" width="300"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/VolunteerScreen1.jpg" alt="Volunteer Form 1" width="250"/><br/>
+      <b>Form - Empty</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/VolunteerScreen2.jpg" alt="Volunteer Form 2" width="250"/><br/>
+      <b>Form - Filled</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ✅ Validation & Submission
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/screenshots/FormSubmitted.jpg" alt="Form Submitted" width="250"/><br/>
+      <b>Form Submitted</b>
+    </td>
+    <td align="center">
+      <img src="assets/screenshots/FormValidation.jpg" alt="Form Validation" width="250"/><br/>
+      <b>Validation Error</b>
+    </td>
+  </tr>
+</table>
 
 🚀 How to Run
 Make sure Flutter is installed:
