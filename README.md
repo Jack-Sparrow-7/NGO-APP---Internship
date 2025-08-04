@@ -1,16 +1,29 @@
-# ngo_app
+🕊️ Hope Haven – NGO Volunteer App
+A simple and clean cross-platform mobile app built using Flutter to support an NGO in onboarding new volunteers.
 
-A new Flutter project.
+📱 Features
+1. Home Page
+Displays NGO logo using Image.asset() or Image.network()
+Includes a welcome message and a brief description of the NGO’s mission
+Clean layout with a responsive and mobile-friendly design
 
-## Getting Started
+2. Volunteer Form Page
+Collects volunteer information:
+Name
+Phone Number (with number keyboard)
+City
+All fields are required and validated
+On successful submission, shows a confirmation SnackBar
+On error, displays inline field errors and prompts the user
 
-This project is a starting point for a Flutter application.
+3. Navigation
+Implemented using a Drawer
+Drawer includes navigation to:
+🏠 Home
+👥 Volunteer Form
 
-A few resources to get you started if this is your first Flutter project:
+🛠️ Technologies Used
+Flutter
+Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📸 Screenshots
