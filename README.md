@@ -43,6 +43,15 @@ Flutter
 
 Dart
 
+## 📦 Download & Try the App
+
+You can download the release build of the NGO Volunteer App and install it on your Android device:
+
+👉 [Click here to download the APK](app-release.apk)
+
+> ⚠️ Make sure to allow installations from unknown sources in your device settings before installing the APK.
+
+
 🚀 How to Run
 Make sure Flutter is installed:
 
