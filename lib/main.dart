@@ -1,5 +1,5 @@
 import 'package:device_preview/device_preview.dart';
-import 'package:flutter/foundation.dart';
+// import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:ngo_app/screens/home_screen.dart';
@@ -16,7 +16,7 @@ void main() {
       ),
       backgroundColor: Color(0xFF141218),
       isToolbarVisible: false,
-      enabled: !kReleaseMode,
+      enabled: false,
       builder: (context) => const MyApp(),
     ),
   );

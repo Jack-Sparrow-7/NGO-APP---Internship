@@ -28,6 +28,7 @@ class _VolunteerScreenState extends State<VolunteerScreen> {
   }
 
   void onFormSubmit() {
+    FocusScope.of(context).unfocus();
     if (formKey.currentState!.validate()) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
@@ -57,6 +58,7 @@ class _VolunteerScreenState extends State<VolunteerScreen> {
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
         backgroundColor: Colors.white,
+        centerTitle: true,
       ),
       drawer: NavigateDrawer(),
       body: SingleChildScrollView(

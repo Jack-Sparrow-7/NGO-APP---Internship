@@ -16,6 +16,7 @@ class HomeScreen extends StatelessWidget {
           "Hope Haven",
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
+        centerTitle: true,
       ),
 
       drawer: NavigateDrawer(),
