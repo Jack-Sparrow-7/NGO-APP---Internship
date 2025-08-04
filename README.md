@@ -29,8 +29,13 @@ Dart
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](assets/screenshots/HomeScreen.jpg) ### 📋 Volunteer Form
-![Volunteer Form](assets/screenshots/VolunteerScreen1.jpg) ### ✅ Validation
-![Validation](assets/screenshots/FormValidation.jpg)
+<img src="assets/HomeScreen.jpg" alt="Home Page" width="300"/>
 
+### 📋 Volunteer Form
+<img src="assets/VolunteerScreen1.jpg" alt="Home Page" width="300"/>
+<img src="assets/VolunteerScreen2.jpg" alt="Home Page" width="300"/>
+
+### ✅ Validation
+<img src="assets/FormSubmitted.jpg" alt="Home Page" width="300"/>
+<img src="assets/FormValidation.jpg" alt="Home Page" width="300"/>
 
