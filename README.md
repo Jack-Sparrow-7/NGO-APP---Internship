@@ -11,8 +11,8 @@ Includes a welcome message and a brief description of the NGO’s mission
 
 Clean layout with a responsive and mobile-friendly design
 
-3. Volunteer Form Page
-4. 
+2. Volunteer Form Page
+
 Collects volunteer information:
 
 Name
@@ -27,7 +27,7 @@ On successful submission, shows a confirmation SnackBar
 
 On error, displays inline field errors and prompts the user
 
-6. Navigation
+3. Navigation
 
 Implemented using a Drawer
 
