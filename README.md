@@ -17,23 +17,32 @@ On successful submission, shows a confirmation SnackBar
 On error, displays inline field errors and prompts the user
 
 3. Navigation
+
 Implemented using a Drawer
+
 Drawer includes navigation to:
+
 🏠 Home
+
 👥 Volunteer Form
 
 🛠️ Technologies Used
+
 Flutter
+
 Dart
 
 🚀 How to Run
 Make sure Flutter is installed:
+
 https://docs.flutter.dev/get-started/install
 
 Clone the repository or download the project folder
 
 In terminal:
+
 flutter pub get
+
 flutter run
 
 ## 📸 Screenshots
