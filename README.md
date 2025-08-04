@@ -29,13 +29,22 @@ Dart
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-<img src="assets/HomeScreen.jpg" alt="Home Page" width="300"/>
+<img src="assets/screenshots/HomeScreen.jpg" alt="Home Page" width="300"/>
 
 ### 📋 Volunteer Form
-<img src="assets/VolunteerScreen1.jpg" alt="Home Page" width="300"/>
-<img src="assets/VolunteerScreen2.jpg" alt="Home Page" width="300"/>
+<img src="assets/screenshots/VolunteerScreen1.jpg" alt="Home Page" width="300"/>
+<img src="assets/screenshots/VolunteerScreen2.jpg" alt="Home Page" width="300"/>
 
 ### ✅ Validation
-<img src="assets/FormSubmitted.jpg" alt="Home Page" width="300"/>
-<img src="assets/FormValidation.jpg" alt="Home Page" width="300"/>
+<img src="assets/screenshots/FormSubmitted.jpg" alt="Home Page" width="300"/>
+<img src="assets/screenshots/FormValidation.jpg" alt="Home Page" width="300"/>
 
+🚀 How to Run
+Make sure Flutter is installed:
+https://docs.flutter.dev/get-started/install
+
+Clone the repository or download the project folder
+
+In terminal:
+flutter pub get
+flutter run
