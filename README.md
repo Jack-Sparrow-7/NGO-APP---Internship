@@ -52,7 +52,7 @@ You can download the release build of the NGO Volunteer App and install it on yo
 > ⚠️ Make sure to allow installations from unknown sources in your device settings before installing the APK.
 
 
-🚀 How to Run
+## 🚀 How to Run
 Make sure Flutter is installed:
 
 https://docs.flutter.dev/get-started/install
