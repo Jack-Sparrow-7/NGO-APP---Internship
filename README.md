@@ -26,6 +26,10 @@ Drawer includes navigation to:
 Flutter
 Dart
 
+🚀 How to Run
+Make sure Flutter is installed:
+https://docs.flutter.dev/get-started/install
+
 ## 📸 Screenshots
 
 ### 🏠 Home Page
@@ -50,11 +54,9 @@ Dart
   <tr>
     <td align="center">
       <img src="assets/screenshots/VolunteerScreen1.jpg" alt="Volunteer Form 1" width="250"/><br/>
-      <b>Form - Empty</b>
     </td>
     <td align="center">
       <img src="assets/screenshots/VolunteerScreen2.jpg" alt="Volunteer Form 2" width="250"/><br/>
-      <b>Form - Filled</b>
     </td>
   </tr>
 </table>
@@ -75,10 +77,6 @@ Dart
     </td>
   </tr>
 </table>
-
-🚀 How to Run
-Make sure Flutter is installed:
-https://docs.flutter.dev/get-started/install
 
 Clone the repository or download the project folder
 
