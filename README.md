@@ -30,6 +30,12 @@ Dart
 Make sure Flutter is installed:
 https://docs.flutter.dev/get-started/install
 
+Clone the repository or download the project folder
+
+In terminal:
+flutter pub get
+flutter run
+
 ## 📸 Screenshots
 
 ### 🏠 Home Page
@@ -78,8 +84,3 @@ https://docs.flutter.dev/get-started/install
   </tr>
 </table>
 
-Clone the repository or download the project folder
-
-In terminal:
-flutter pub get
-flutter run
